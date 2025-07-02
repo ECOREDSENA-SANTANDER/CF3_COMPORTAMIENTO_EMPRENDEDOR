@@ -1,30 +1,95 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 20%
-    right: 10%
+    bottom: 0%
+    right: 13%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
-@keyframes float1
-  0%
-    transform: translateY(20px)
-  100%
-    transform: translateY(0px)
+    bottom: 0%
+    right: 55%
+  &-3
+    top: 0%
+    right: 20%
   
 
 .banner-principal .tarjeta
   background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  max-width: 480px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
+figcaption, table caption
   font-weight: normal
+.barra-avance__boton--regresar span
+  color: $white !important
  
+
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/mini-portada.png') !important
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: #12263F
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.t-color-sec 
+  color: $color-secundario !important
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
+
+
+.bg1
+  background-color: #FEF6D9
+.bg2
+  background-color: #B8DCF3
+.bg3
+  background-color: #DBEDF9
+
+.bgc-1
+  //background-image: url('../assets/curso/temas/t2/bgc1.png')
+  background-position: bottom
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+
+
+.acordion
+  &__activo
+    background-color: #FFE6C3
+  &__accion__btn--a
+    background-color: #006EEF
+    i
+      color: #FFF
+      font-size: 1.3em
+  .mb-3.tarjeta.min-b
+    margin-bottom: 10px !important
+    padding-top: 17px !important
+  &__header
+    margin-bottom: 17px !important

@@ -5,7 +5,8 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Concepto y evolución de la empresa en el entorno actual 
+
 
 </template>
 
