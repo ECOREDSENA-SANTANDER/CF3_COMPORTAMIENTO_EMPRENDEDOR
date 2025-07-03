@@ -7,6 +7,34 @@
         span 3
       h1 Elementos estratégicos de la empresa 
 
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+
+    Separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+
+    Separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+
+    Separador
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
+
+    Separador
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 
+
+
 
 </template>
 

@@ -51,8 +51,10 @@ figcaption, table caption
   width: fit-content
 .columns-2
   columns: 2
-.t-color-sec 
+.tc-sec 
   color: $color-secundario !important
+.tc-ac 
+  color: $color-acento-contenido !important
 .font-italic
   font-style: italic !important
 .sin-borde
@@ -65,6 +67,24 @@ figcaption, table caption
   background-color: #B8DCF3
 .bg3
   background-color: #DBEDF9
+.bg4
+  background-color: #FFF2E1
+.bg5
+  background-color: #D6E6CE
+.bg6
+  background-color: #FFE6C3
+.bg7
+  background-color: #E9F2E5
+.bg8
+  background-color: #FFF8EF
+.bg9
+  background-color: #D2E1F1
+.bg10
+  background-color: #ECF6FC
+
+.bgg-1
+  background: #F3E6CB
+  background: linear-gradient(166deg,rgba(243, 230, 203, 1) 0%, rgba(243, 230, 203, 1) 42%, rgba(218, 185, 149, 1) 100%)
 
 .bgc-1
   //background-image: url('../assets/curso/temas/t2/bgc1.png')
@@ -78,7 +98,68 @@ figcaption, table caption
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover 
+.bgs-1
+  background-image: url('../assets/curso/temas/t1/bg-slider.png')
+  background-position: bottom
+  border-radius: 30px
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
 
+
+.w-90px
+  width: 90px
+
+.subt
+  display: flex
+  align-items: center
+  position: relative
+  width: fit-content
+  img
+    width: 60px
+  &::after
+    content: ''
+    position: absolute
+    background-color: $color-acento-contenido
+    border-radius: 200px
+    width: 100%
+    height: 70%
+    top: 10px
+    z-index: 0
+  h3, img
+    color: #FFF
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-sm)
+    &::after
+      height: 90%
+      top: 5px
+  @media (max-width: $bp-max-xs)
+    &::after
+      height: 98%
+      top: 0px
+.subt2
+  background-color: #37840F
+  width: fit-content
+  padding: 5px 20px 2px 20px
+  margin: 0 auto
+  h3, h4
+    color: #FFF
+.lista-ul--color.color-2 li > i:first-of-type  
+  color: #36769D 
+.img-neg
+  position: relative
+  img
+    position: absolute
+    left: -12%
+    top: 50%;
+    transform: translateY(-50%)
 
 .acordion
   &__activo
@@ -93,3 +174,58 @@ figcaption, table caption
     padding-top: 17px !important
   &__header
     margin-bottom: 17px !important
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: #006EEF 
+    opacity: 0.9
+  &__bullets__item
+    background-color: #B9D4AB
+    border-color: #B9D4AB
+    &--active
+      background-color: #37840F
+      border-color: #37840F
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  color: $white
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
+.tabs-c
+  border: 0px
+  &__header
+    margin-bottom: 0px
+  &__content-item
+    border: 1px solid #E8E8E8
+  &__tab--active span
+    font-weight: bold
+
+
+/* Tarj Hover Tema 2 */
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 230, 195, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
