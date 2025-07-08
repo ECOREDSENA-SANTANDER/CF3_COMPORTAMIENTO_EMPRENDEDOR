@@ -121,7 +121,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'tapas del plan de <em>marketing</em>',
+            titulo: 'Etapas del plan de <em>marketing</em>',
             hash: 't_4_2',
           },
         ],

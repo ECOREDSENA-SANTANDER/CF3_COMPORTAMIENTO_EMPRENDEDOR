@@ -217,8 +217,8 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7(data-aos="fade-right")
         .tarjeta.bg5.p-4.mb-3 
-          p.mb-0 En el contexto empresarial actual, las áreas funcionales representan las divisiones claves, que permiten a una organización operar de manera eficiente y alcanzar sus objetivos estratégicos. Estas áreas, que incluyen dirección, producción, finanzas, marketing, recursos humanos, entre otras, están diseñadas para especializarse en funciones específicas, facilitando así una gestión más efectiva y una mayor productividad. La correcta definición y coordinación de estas áreas son fundamentales para el éxito organizacional, ya que cada una contribuye de manera única al funcionamiento integral de la empresa.
-        p La interrelación entre las áreas funcionales es esencial, para garantizar una operación armoniosa y eficiente. Por ejemplo, el departamento de producción depende de las proyecciones de ventas proporcionadas por marketing para planificar adecuadamente la fabricación de productos. A su vez, finanzas necesita información precisa de todas las áreas para elaborar presupuestos y gestionar los recursos económicos de manera efectiva. Recursos humanos juega un papel crucial al reclutar y capacitar al personal necesario para cada departamento, asegurando que la empresa cuente con el talento adecuado para cumplir sus metas. Esta interdependencia requiere una comunicación constante y efectiva, promoviendo una cultura organizacional colaborativa y orientada al logro de objetivos comunes.
+          p.mb-0 En el contexto empresarial actual, las áreas funcionales representan las divisiones claves, que permiten a una organización operar de manera eficiente y alcanzar sus objetivos estratégicos. Estas áreas, que incluyen dirección, producción, finanzas, #[em marketing], recursos humanos, entre otras, están diseñadas para especializarse en funciones específicas, facilitando así una gestión más efectiva y una mayor productividad. La correcta definición y coordinación de estas áreas son fundamentales para el éxito organizacional, ya que cada una contribuye de manera única al funcionamiento integral de la empresa.
+        p La interrelación entre las áreas funcionales es esencial, para garantizar una operación armoniosa y eficiente. Por ejemplo, el departamento de producción depende de las proyecciones de ventas proporcionadas por #[em marketing] para planificar adecuadamente la fabricación de productos. A su vez, finanzas necesita información precisa de todas las áreas para elaborar presupuestos y gestionar los recursos económicos de manera efectiva. Recursos humanos juega un papel crucial al reclutar y capacitar al personal necesario para cada departamento, asegurando que la empresa cuente con el talento adecuado para cumplir sus metas. Esta interdependencia requiere una comunicación constante y efectiva, promoviendo una cultura organizacional colaborativa y orientada al logro de objetivos comunes.
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/12.png' alt='')
 
@@ -345,23 +345,23 @@
           li
             .lista-ol--cuadro__vineta
               span.fw-bold a.
-            span.mb-0 Funciones: se agrupan las actividades según tareas similares (ejemplo: producción, ventas, finanzas).
+            span.mb-0 #[b Funciones:] se agrupan las actividades según tareas similares (ejemplo: producción, ventas, finanzas).
           li
             .lista-ol--cuadro__vineta
               span.fw-bold b.
-            span.mb-0 Productos: se crean divisiones según las líneas de productos o servicios.
+            span.mb-0 #[b Productos:] se crean divisiones según las líneas de productos o servicios.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold c.
-            span.mb-0 Ubicación geográfica: ideal para organizaciones con operaciones en distintas regiones.
+            span.mb-0 #[b Ubicación geográfica:] ideal para organizaciones con operaciones en distintas regiones.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold d.
-            span.mb-0 Tipo de clientes: se segmentan los departamentos, de acuerdo con las características de los clientes atendidos.
+            span.mb-0 #[b Tipo de clientes:] se segmentan los departamentos, de acuerdo con las características de los clientes atendidos.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold e.
-            span.mb-0 Procesos o tecnología: se estructura la organización según el tipo de maquinaria, tecnología o procesos utilizados.
+            span.mb-0 #[b Procesos o tecnología:] se estructura la organización según el tipo de maquinaria, tecnología o procesos utilizados.
       .col-lg-5(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/18.png' alt='')
 
