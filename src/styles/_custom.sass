@@ -81,13 +81,17 @@ figcaption, table caption
   background-color: #D2E1F1
 .bg10
   background-color: #ECF6FC
+.bg11
+  background-color: #F3F9FF
+.bg12
+  background-color: #DEE4F0
 
 .bgg-1
   background: #F3E6CB
   background: linear-gradient(166deg,rgba(243, 230, 203, 1) 0%, rgba(243, 230, 203, 1) 42%, rgba(218, 185, 149, 1) 100%)
 
 .bgc-1
-  //background-image: url('../assets/curso/temas/t2/bgc1.png')
+  background-image: url('../assets/curso/temas/t4/bgc1.png')
   background-position: bottom
   background-size: 100% 100%
   background-repeat: no-repeat
@@ -214,20 +218,28 @@ figcaption, table caption
     border: 1px solid #E8E8E8
   &__tab--active span
     font-weight: bold
-.bloque-texto-g.bloque-texto-g--inverso.t3-list .bloque-texto-g__texto *
+.t3-list .bloque-texto-g__texto *
   display: flex !important
   flex-wrap: wrap
   align-items: flex-start
-.bloque-texto-g.bloque-texto-g--inverso.t3-list .bloque-texto-g__texto ul
+.t3-list .bloque-texto-g__texto ul
   @media (max-width: $bp-max-sm)
     display: block !important
+.t4-bloqg .bloque-texto-g__texto
+  display: grid
 .linea-tiempo-c
   &__header__btn--left, &__header__btn--right
     background-color: #006EEF
     border-color: #006EEF
     i
       color: $white
-
+.linea-tiempo-d 
+  &__item__content, &__item__number
+    background-color: #FEEEB3
+  &__item--selected
+    .linea-tiempo-d__item__number, .linea-tiempo-d__item__content
+      background-color: #D6E6CE !important
+      color: $color-sistema-texto !important
 
 
 /* Tarj Hover Tema 2 */
