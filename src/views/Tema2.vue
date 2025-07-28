@@ -46,7 +46,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 Las características actualizadas de las empresas modernas son
+      h3.ps-3.pe-4.mb-0 Las características actualizadas de las empresas modernas son:
 
     SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-4" data-aos="fade-down")
       .tarjeta.bg6.p-4
@@ -109,23 +109,23 @@
           li
             .lista-ol--cuadro__vineta
               span.fw-bold a.
-            span.mb-0 Fijar y programar objetivos: definir metas claras y alcanzables que orienten el accionar de toda la organización. 
+            span.mb-0 #[strong Fijar y programar objetivos:] definir metas claras y alcanzables que orienten el accionar de toda la organización. 
           li
             .lista-ol--cuadro__vineta
               span.fw-bold b.
-            span.mb-0 Motivar y alinear esfuerzos: estimular el compromiso del equipo y asegurar que todos trabajen de manera coordinada hacia las mismas metas.
+            span.mb-0 #[strong Motivar y alinear esfuerzos:] estimular el compromiso del equipo y asegurar que todos trabajen de manera coordinada hacia las mismas metas.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold c.
-            span.mb-0 Coordinar y controlar actividades: supervisar procesos clave para garantizar que las tareas se ejecuten con eficiencia y en los tiempos establecidos.
+            span.mb-0 #[strong Coordinar y controlar actividades:] supervisar procesos clave para garantizar que las tareas se ejecuten con eficiencia y en los tiempos establecidos.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold d.
-            span.mb-0 Desarrollar y activar talentos: identificar el potencial humano, promover su crecimiento y alinearlo con las necesidades del negocio.
+            span.mb-0 #[strong Desarrollar y activar talentos:] identificar el potencial humano, promover su crecimiento y alinearlo con las necesidades del negocio.
           li.mb-0
             .lista-ol--cuadro__vineta
               span.fw-bold e.
-            span.mb-0 Construir y cultivar relaciones: fortalecer vínculos internos y externos basados en la confianza, la colaboración y la comunicación efectiva.
+            span.mb-0 #[strong Construir y cultivar relaciones:] fortalecer vínculos internos y externos basados en la confianza, la colaboración y la comunicación efectiva.
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-4.mb-3.mb-lg-0
@@ -303,7 +303,7 @@
     .row.justify-content-center.mb-5
       .col-lg-9
         .tarjeta.bg10.h-100.p-4.p-lg-5
-          p La división del trabajo consiste en la segmentación y especialización de las tareas dentro de una empresa, asignándolas por áreas, departamentos o funciones específicas. Esta separación permite una mayor precisión, eficiencia y ahorro de esfuerzo, facilitando la especialización del talento humano y el perfeccionamiento continuo de los procesos. Para llevar a cabo una división del trabajo efectiva, es necesario considerar las siguientes etapas
+          p La división del trabajo consiste en la segmentación y especialización de las tareas dentro de una empresa, asignándolas por áreas, departamentos o funciones específicas. Esta separación permite una mayor precisión, eficiencia y ahorro de esfuerzo, facilitando la especialización del talento humano y el perfeccionamiento continuo de los procesos. Para llevar a cabo una división del trabajo efectiva, es necesario considerar las siguientes etapas:
       .col-lg-3.d-none.d-lg-block
         .bg2.h-100.py-2
           img(src='@/assets/curso/temas/t2/15.svg' alt='')
@@ -337,7 +337,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 Los métodos más comunes de departamentalización son
+      h3.ps-3.pe-4.mb-0 Los métodos más comunes de departamentalización son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")

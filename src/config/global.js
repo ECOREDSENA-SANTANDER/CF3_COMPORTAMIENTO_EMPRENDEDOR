@@ -287,7 +287,7 @@ export default {
     },
     {
       referencia:
-        'Cravens, D. W., & Piercy, N. F. (2017). Marketing estratégico. McGraw-Hill Interamericana. ',
+        'Cravens, D. W., & Piercy, N. F. (2017). <em>Marketing</em> estratégico. McGraw-Hill Interamericana. ',
     },
     {
       referencia:
@@ -327,7 +327,7 @@ export default {
       autores: [
         {
           nombre: 'Vilma Lucía Perilla Méndez',
-          cargo: 'Experta y Diseñadora Instruccional',
+          cargo: 'Experta y diseñadora instruccional',
           centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
@@ -361,13 +361,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Yineth González Quintero',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

@@ -17,7 +17,7 @@
         img(src='@/assets/curso/temas/intro/2.svg', alt='')
     
     .tarjeta.bg1.p-4.mb-4(data-aos="fade-down")
-      p.mb-0 Integrar elementos estratégicos como la misión, visión, filosofía, objetivos y estrategias organizacionales, junto con herramientas de marketing que faciliten la proyección del negocio en el mercado, permite al empresario tomar decisiones acertadas, a través del análisis del entorno y de una planificación estructurada, se favorece la rentabilidad, el crecimiento y la sostenibilidad de la empresa en el corto, mediano y largo plazo.
+      p.mb-0 Integrar elementos estratégicos como la misión, visión, filosofía, objetivos y estrategias organizacionales, junto con herramientas de #[em marketing] que faciliten la proyección del negocio en el mercado, permite al empresario tomar decisiones acertadas, a través del análisis del entorno y de una planificación estructurada, se favorece la rentabilidad, el crecimiento y la sostenibilidad de la empresa en el corto, mediano y largo plazo.
     
     figure(data-aos="fade")
       .video

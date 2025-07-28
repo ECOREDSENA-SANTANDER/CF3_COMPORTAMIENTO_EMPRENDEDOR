@@ -80,7 +80,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 Entre los elementos clave que componen un plan de #[em marketing] se encuentran
+      h3.ps-3.pe-4.mb-0 Entre los elementos clave que componen un plan de #[em marketing] se encuentran:
 
     .row.justify-content-center.align-items-center
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
@@ -132,7 +132,7 @@
           .p-4
             p.mb-4 El plan de #[em marketing] se construye a partir de un proceso estructurado que permite comprender la realidad actual del negocio, definir metas estratégicas, formular acciones concretas, asignar recursos y hacer seguimiento a los resultados. Este proceso se compone de varias etapas interdependientes que facilitan la toma de decisiones acertadas y alineadas con la visión comercial de la organización.
             .subt3.mb-4
-              h4.mb-0 Las principales etapas del plan de #[em marketing] son
+              h4.mb-0 Las principales etapas del plan de #[em marketing] son:
             .row.justify-content-center.mb-3
               .col-lg-5
                 ul.lista-ul--color.color-2.fa-lista.mb-0
@@ -242,10 +242,10 @@
             .col-12
               p Se centra en un único segmento específico, ideal cuando se cuentan con recursos limitados o se busca posicionarse como especialista en un solo mercado.
               p.mb-0 Ejemplo: productos veganos para personas con alergias alimentarias.
-          .row.justify-content-center(numero="4" titulo="Micromarketing (o <em>marketing</em> individualizado)")
+          .row.justify-content-center(numero="4" titulo="<em>Micromarketing</em> (o <em>marketing</em> individualizado)")
             .col-12
               p Consiste en personalizar la oferta para grupos muy específicos o incluso para cada cliente, adaptando productos, promociones y canales de distribución.
-              p.mb-0 Ejemplo: campañas de #[em marketing] hiperlocal o productos personalizados online.
+              p.mb-0 Ejemplo: campañas de #[em marketing] hiperlocal o productos personalizados #[em online].
       .col-lg-5.col-md-10(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/11.png' alt='')
 
@@ -289,9 +289,8 @@
       .col-lg-2.col-md-3.col-5
         img(src='@/assets/curso/temas/t4/14.svg' alt='')
       .col-lg-10.col-md-9
-        p Una vez realizado el análisis situacional y definidos los objetivos del plan de #[em marketing], se procede a la formulación de estrategias, que guiarán las acciones de la empresa para alcanzar su mercado objetivo de forma efectiva. En esta etapa, el emprendedor selecciona el segmento de mercado meta y diseña las estrategias más adecuadas para acercarse a él, comunicar valor, posicionar sus productos y construir una marca sólida.
-        p.mb-0 Para lograrlo, se pueden utilizar diferentes enfoques estratégicos según los recursos disponibles, las características del mercado y el tipo de producto o servicio. Entre las principales estrategias de cobertura de mercado se encuentran:
-      
+        p Una vez definida la estrategia general de cobertura y el segmento de mercado objetivo, es necesario estructurar acciones más específicas para lograr que el producto o servicio ocupe un lugar destacado en la mente del consumidor. Para ello, se requiere una combinación de posicionamiento competitivo, desarrollo de marca y estrategias de comunicación adecuadas. 
+        
     .tarjeta.bg7.p-4.mb-4(data-aos="fade")
       .row.justify-content-center.align-items-center
         .col-lg-4
@@ -341,7 +340,7 @@
                   span.mb-0 #[b Precio técnico:] costo unitario + gasto unitario.
                 li
                   i.fas.fa-circle-check
-                  span.mb-0 #[b Precio óptimo:] precio técnico + utilidad esperada
+                  span.mb-0 #[b Precio óptimo:] precio técnico + utilidad esperada.
                 li
                   i.fas.fa-circle-check
                   span.mb-0 #[b Precio de aceptación:] rango que el cliente está dispuesto a pagar.
@@ -415,7 +414,7 @@
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4 
                     h4.mb-0 #[em Marketing] directo
-                  p.text-center Uso de medios masivos o personalizados para llegar directamente al consumidor (ejemplo. correos electrónicos, mensajes SMS, llamadas).
+                  p.text-center Uso de medios masivos o personalizados para llegar directamente al consumidor (ejemplo: correos electrónicos, mensajes SMS, llamadas).
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6

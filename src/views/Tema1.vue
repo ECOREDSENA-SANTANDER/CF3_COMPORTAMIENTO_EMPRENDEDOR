@@ -169,7 +169,7 @@
                   img(src='@/assets/curso/temas/t1/slide3.png', alt='')
               .row.justify-content-around.align-items-center
                 .col-md-6
-                  p A pesar de estas limitaciones, el plan de negocios sigue siendo una herramienta clave para la planificación y gestión empresarial. Reconocer sus posibles desventajas no implica descartarlo, sino más bien abordarlo con una mirada crítica, flexible y realista. Su efectividad dependerá en gran medida del compromiso del emprendedor con su elaboración, actualización constante y uso como guía práctica para la toma de decisiones. En un entorno empresarial cambiante, la adaptabilidad y la revisión continua del plan son esenciales para transformar sus limitaciones en oportunidades de mejora y crecimiento
+                  p A pesar de estas limitaciones, el plan de negocios sigue siendo una herramienta clave para la planificación y gestión empresarial. Reconocer sus posibles desventajas no implica descartarlo, sino más bien abordarlo con una mirada crítica, flexible y realista. Su efectividad dependerá en gran medida del compromiso del emprendedor con su elaboración, actualización constante y uso como guía práctica para la toma de decisiones. En un entorno empresarial cambiante, la adaptabilidad y la revisión continua del plan son esenciales para transformar sus limitaciones en oportunidades de mejora y crecimiento.
                 .col-md-6.col-lg-4
                   img(src='@/assets/curso/temas/t1/slide4.png', alt='')
 

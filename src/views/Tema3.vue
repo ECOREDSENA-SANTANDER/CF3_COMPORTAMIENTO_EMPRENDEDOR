@@ -32,21 +32,21 @@
             ul.lista-ul--color.color-2.fa-lista.mb-0
               li
                 i.fas.fa-circle-check
-                span.mb-0 Misión organizacional
+                span.mb-0 Misión organizacional.
               li
                 i.fas.fa-circle-check
-                span.mb-0 Visión organizacional
+                span.mb-0 Visión organizacional.
               li
                 i.fas.fa-circle-check
-                span.mb-0 Filosofía organizacional
+                span.mb-0 Filosofía organizacional.
           .col-lg-6
             ul.lista-ul--color.color-2.fa-lista.mb-0
               li
                 i.fas.fa-circle-check
-                span.mb-0 Objetivos organizacionales
+                span.mb-0 Objetivos organizacionales.
               li
                 i.fas.fa-circle-check
-                span.mb-0 Estrategias organizacionales
+                span.mb-0 Estrategias organizacionales.
     
     p Estas herramientas no solo permiten estructurar la identidad de la empresa, sino que también actúan como guías prácticas para la toma de decisiones, el diseño de planes operativos y la evaluación del desempeño. A continuación, analizaremos cada una de ellas en detalle.
 
@@ -66,7 +66,7 @@
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
-      h3.ps-3.pe-4.mb-0 Una misión efectiva suele incluir los siguientes componentes clave
+      h3.ps-3.pe-4.mb-0 Una misión efectiva suele incluir los siguientes componentes clave:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -268,7 +268,7 @@
         .tarjeta--container.row
           .col-md.tarjeta.color-primario.p-5
             .subt2.mb-4
-              h3.text-white.mb-1 Definir objetivos claros permite
+              h3.text-white.mb-1 Definir objetivos claros permite:
             ul.lista-ul--color.color-2.fa-lista.mb-0
               li.mb-1
                 i.fas.fa-circle-check
@@ -284,7 +284,7 @@
                 span.mb-0 Adaptarse de manera proactiva a los cambios del entorno.
           .col-md.tarjeta.bg6.p-5
             .subt2.mb-4
-              h3.text-white.mb-1 Los objetivos organizacionales pueden clasificarse en
+              h3.text-white.mb-1 Los objetivos organizacionales pueden clasificarse en:
             ul.lista-ul--color.color-2.fa-lista.mb-0
               li.mb-1
                 i.fas.fa-circle-check
