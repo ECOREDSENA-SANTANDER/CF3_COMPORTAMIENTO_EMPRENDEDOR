@@ -236,7 +236,7 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-0.tc-ac Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=sTsB_AUft-U&t=14s')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=vnWpYD_q-OE')" target="_blank")
                     span Ver video
                     i.fas.fa-play
 
