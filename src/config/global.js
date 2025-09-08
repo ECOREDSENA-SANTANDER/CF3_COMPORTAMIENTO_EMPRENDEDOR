@@ -299,11 +299,11 @@ export default {
     },
     {
       referencia:
-        'Sainz de Vicuña Ancín, J. (2012). El plan de marketing en la práctica. ESIC Editorial. ',
+        'Sainz de Vicuña Ancín, J. (2012). El plan de <em>marketing</em> en la práctica. ESIC Editorial. ',
     },
     {
       referencia:
-        'Strauss, J., & Frost, R. (2012). E-marketing (6.ª ed.). Pearson. ',
+        'Strauss, J., & Frost, R. (2012). <em>E-marketing</em> (6.ª ed.). Pearson. ',
     },
   ],
   creditos: [
@@ -366,8 +366,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

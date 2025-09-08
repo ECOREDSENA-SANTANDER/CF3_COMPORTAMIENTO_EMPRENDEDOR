@@ -126,7 +126,7 @@
             span.mb-0 ¿En qué mercados opera y cuáles proyecta atender en el futuro?
           li.mb-1
             i.fas.fa-circle-check
-            span.mb-0 ¿Qué nivel de compromiso asume con sus grupos de interés #[em (stakeholders)]?
+            span.mb-0 ¿Qué nivel de compromiso asume con sus grupos de interés (#[em stakeholders])?
           li.mb-0
             i.fas.fa-circle-check
             span.mb-0 ¿Cuáles son los canales de distribución actuales y cuáles se planean implementar?
@@ -167,7 +167,7 @@
               span.mb-0 ¿Cuáles son las metas organizacionales a corto, mediano y largo plazo?
             li.mb-0
               i.fas.fa-circle-check
-              span.mb-0 ¿Cuáles serán los pro ductos o servicios clave para competir en el futuro?
+              span.mb-0 ¿Cuáles serán los productos o servicios clave para competir en el futuro?
             li.mb-0
               i.fas.fa-circle-check
               span.mb-0 ¿Qué actividades nuevas se espera desarrollar para consolidar la posición empresarial?
@@ -182,7 +182,7 @@
           img(src='@/assets/curso/temas/t3/9.svg' alt='')
       .col-lg-4
         p Estas preguntas permiten definir con mayor claridad la proyección estratégica del negocio, fortaleciendo la toma de decisiones y el compromiso colectivo con los objetivos trazados.
-        p.mb-0 Fundamental lograr una visión organizacional bien definida funciona como una brújula que guía a la empresa hacia su crecimiento y sostenibilidad. Establece un horizonte temporal que inspira, da sentido a las acciones diarias y fortalece la cohesión interna. Así, se convierte en un motor estratégico para anticiparse a los cambios del entorno, adaptarse con resiliencia y competir con propósito en un mercado cada vez más dinámico y exigente.
+        p.mb-0 Es fundamental contar con una visión organizacional bien definida, ya que funciona como una brújula que orienta a la empresa hacia el crecimiento y la sostenibilidad. Esta visión establece un horizonte temporal que inspira, da sentido a las acciones diarias y fortalece la cohesión interna. De este modo, se convierte en un motor estratégico que permite anticiparse a los cambios del entorno, adaptarse con resiliencia y competir con propósito en un mercado cada vez más dinámico y exigente. 
 
 
     Separador

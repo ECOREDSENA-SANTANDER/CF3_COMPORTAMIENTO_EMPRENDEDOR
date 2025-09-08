@@ -63,8 +63,9 @@
             img(src='@/assets/curso/temas/t1/5.svg', alt='')
         .tarjeta.bg3.p-4.mb-3
           p.mb-0 Además, muchas organizaciones lo actualizan periódicamente como parte de sus procesos de gestión estratégica, dado que facilita el cumplimiento de objetivos, el uso eficiente de recursos y la alineación con los cambios del entorno económico, tecnológico y social.
-        p Entre las principales ventajas que ofrece un plan de negocios para un emprendimiento, se destacan:
 
+    p Entre las principales ventajas que ofrece un plan de negocios para un emprendimiento, se destacan:
+    
     .row.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right")
         ul.lista-ul--color.color-2.fa-lista

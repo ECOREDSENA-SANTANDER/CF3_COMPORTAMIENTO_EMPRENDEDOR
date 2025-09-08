@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p.mb-4 Emprender con éxito exige comprender y aplicar elementos clave como el plan de negocios, la estructura organizacional, los componentes estratégicos y el marketing. Un plan de negocios sólido orienta decisiones, reduce riesgos y evalúa la viabilidad del proyecto. La empresa moderna debe ser flexible, ética, sostenible y capaz de adaptarse a cambios del entorno, definir misión, visión, objetivos, estrategias que fortalezcan la identidad, proyección empresarial y finalmente el marketing permite conectar con el mercado mediante análisis, segmentación, posicionamiento y estrategias comerciales que impulsan el crecimiento y la competitividad.    
+    p.mb-4 Emprender con éxito exige comprender y aplicar elementos clave como el plan de negocios, la estructura organizacional, los componentes estratégicos y el #[em marketing]. Un plan de negocios sólido orienta decisiones, reduce riesgos y evalúa la viabilidad del proyecto. La empresa moderna debe ser flexible, ética, sostenible y capaz de adaptarse a cambios del entorno, definir misión, visión, objetivos, estrategias que fortalezcan la identidad, proyección empresarial y finalmente el #[em marketing] permite conectar con el mercado mediante análisis, segmentación, posicionamiento y estrategias comerciales que impulsan el crecimiento y la competitividad.    
 
     .tarjeta.tarjeta--gris.mb-5.py-md-5
       .row.justify-content-center

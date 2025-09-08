@@ -94,7 +94,7 @@
                 span.mb-0 #[b Logro de objetivos:] compara lo planeado con lo ejecutado, midiendo avances y desviaciones.
               li
                 i.fas.fa-circle-check
-                span.mb-0 #[b Estrategia de marketing:] define las variables del #[em mix] de #[em marketing] (producto, precio, promoción y distribución) para posicionar la oferta en el mercado.
+                span.mb-0 #[b Estrategia de #[em marketing]:] define las variables del #[em mix] de #[em marketing] (producto, precio, promoción y distribución) para posicionar la oferta en el mercado.
               li
                 i.fas.fa-circle-check
                 span.mb-0 #[b Calendario:] establece la programación de actividades y campañas a lo largo del periodo de ejecución.
@@ -406,49 +406,49 @@
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4
-                    h4.mb-0 Venta personal
+                    h4.mb-0.text-center Venta personal
                   p.text-center Contacto directo con el cliente para identificar necesidades, presentar soluciones, manejar objeciones, cerrar ventas y hacer seguimiento.
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4 
-                    h4.mb-0 #[em Marketing] directo
+                    h4.mb-0.text-center #[em Marketing] directo
                   p.text-center Uso de medios masivos o personalizados para llegar directamente al consumidor (ejemplo: correos electrónicos, mensajes SMS, llamadas).
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4 
-                    h4.mb-0 #[em Marketing] digital
+                    h4.mb-0.text-center #[em Marketing] digital
                   p.text-center Uso de plataformas como redes sociales, motores de búsqueda, sitios web, #[em email marketing] y canales electrónicos de atención y pago.
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4
-                    h4.mb-0 #[em Merchandising]
+                    h4.mb-0.text-center #[em Merchandising]
                   p.text-center Técnicas en punto de venta para estimular compras impulsivas, como exhibiciones, degustaciones, demostraciones y promociones visuales.
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4
-                    h4.mb-0 Visual
-                  p.text-center Ambientación del espacio físico (ejemplo. vitrinas, iluminación, muebles).
+                    h4.mb-0.text-center Visual
+                  p.text-center Ambientación del espacio físico (ejemplo: vitrinas, iluminación, muebles).
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4
-                    h4.mb-0 Gestión
+                    h4.mb-0.text-center Gestión
                   p.text-center Análisis de la rentabilidad del punto de venta.
                 .tarjeta.bg2.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-5.col-md-6
                       img(src='@/assets/curso/temas/t4/tarj1.svg' alt='')
                   .subt2.mb-4
-                    h4.mb-0 Relaciones públicas
+                    h4.mb-0.text-center Relaciones públicas
                   p.text-center Acciones para construir una imagen positiva, a través de eventos, alianzas, notas de prensa o acciones de responsabilidad social.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.t4-bloqg(data-aos="fade")

@@ -237,7 +237,7 @@
                   h4.mb-0.tc-ac Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=vnWpYD_q-OE')" target="_blank")
-                    span Ver video
+                    span Ir al sitio
                     i.fas.fa-play
 
 
@@ -273,7 +273,7 @@
       h3.ps-3.pe-4.mb-0 La organización empresarial se desarrolla en dos etapas fundamentales
     
     .row.justify-content-center.cursor-pointer.mb-5
-      .col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-6.col-11.mb-4.mb-xl-0
         .tarjeta.crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
@@ -282,7 +282,7 @@
           .crd_hover_txt--body.text-center
             h4.mb-3 1. División del trabajo 
             p.mb-0 Consiste en segmentar y delimitar las actividades, ya sea por procesos, áreas o departamentos. Esto permite una mayor especialización, mejora el rendimiento individual y colectivo, y reduce los esfuerzos innecesarios, favoreciendo el perfeccionamiento del trabajo. 
-      .col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
+      .col-lg-5.col-md-6.col-11.mb-4.mb-xl-0
         .tarjeta.crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           .crd_hover_txt--img
@@ -291,11 +291,8 @@
           .crd_hover_txt--body.text-center
             h4.mb-3 2.	Coordinación
             p.mb-0 Surge de la necesidad de integrar y armonizar las funciones de cada área para que trabajen de forma sinérgica. Una buena coordinación asegura que los esfuerzos individuales estén alineados con los fines comunes de la empresa, generando cohesión y efectividad.
-      .col-lg-4
-        .tarjeta.bg5.h-100.p-4.text-center.d-flex.align-items-center
-          p A continuación, exploraremos en detalle cada una de las etapas y estructuras organizacionales, con el fin de comprender su función, importancia y aplicación dentro del contexto empresarial.
-
-
+    
+    p A continuación, exploraremos en detalle cada una de las etapas y estructuras organizacionales, con el fin de comprender su función, importancia y aplicación dentro del contexto empresarial.
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
       h3.ps-3.pe-4.mb-0 División del trabajo
