@@ -272,7 +272,7 @@
       img(src="@/assets/curso/temas/t1/subt.svg")
       h3.ps-3.pe-4.mb-0 La organización empresarial se desarrolla en dos etapas fundamentales
     
-    .row.justify-content-center.cursor-pointer.mb-5
+    .row.justify-content-center.cursor-pointer.mb-4
       .col-lg-5.col-md-6.col-11.mb-4.mb-xl-0
         .tarjeta.crd_hover_txt(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
@@ -292,7 +292,9 @@
             h4.mb-3 2.	Coordinación
             p.mb-0 Surge de la necesidad de integrar y armonizar las funciones de cada área para que trabajen de forma sinérgica. Una buena coordinación asegura que los esfuerzos individuales estén alineados con los fines comunes de la empresa, generando cohesión y efectividad.
     
-    p A continuación, exploraremos en detalle cada una de las etapas y estructuras organizacionales, con el fin de comprender su función, importancia y aplicación dentro del contexto empresarial.
+    .tarjeta.bg5.p-4.mb-5
+      p.mb-0 A continuación, exploraremos en detalle cada una de las etapas y estructuras organizacionales, con el fin de comprender su función, importancia y aplicación dentro del contexto empresarial.
+    
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t1/subt.svg")
       h3.ps-3.pe-4.mb-0 División del trabajo

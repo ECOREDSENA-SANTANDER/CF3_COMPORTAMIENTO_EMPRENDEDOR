@@ -155,8 +155,9 @@
                     span.mb-0 Control y seguimiento del desempeño.
             p A continuación, se profundiza en las dos primeras etapas:
 
-    .subt4.mb-4(data-aos="fade-right")
-      h3.mb-0 Análisis de la situación actual
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t1/subt.svg")
+      h3.ps-3.pe-4.mb-0 Análisis de la situación actual
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-2.col-md-3.col-6
@@ -184,8 +185,9 @@
       p.mb-0 Por ejemplo, un emprendimiento puede evitar competir en mercados saturados con actores dominantes, y enfocarse en nichos donde el valor agregado, la atención personalizada o la innovación sean más valorados que el precio.
 
 
-    .subt4.mb-4(data-aos="fade-right")
-      h3.mb-0 Planificación de objetivos para el siguiente periodo
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t1/subt.svg")
+      h3.ps-3.pe-4.mb-0 Planificación de objetivos para el siguiente periodo
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-2.col-md-3.col-6
@@ -215,8 +217,9 @@
       p.mb-0 Estas dos etapas constituyen la base para las decisiones posteriores dentro del plan de #[em marketing]. Un análisis profundo y una planificación bien estructurada permitirán que la empresa oriente sus recursos hacia acciones de alto impacto, minimizando riesgos y maximizando oportunidades en un entorno competitivo.
 
 
-    .subt4.mb-4(data-aos="fade-right")
-      h3.mb-0 Formulación de estrategias de #[em marketing]
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t1/subt.svg")
+      h3.ps-3.pe-4.mb-0 Formulación de estrategias de #[em marketing]
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-2.col-md-3.col-5
@@ -455,8 +458,9 @@
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t4/19.jpg')})`}")
       .bloque-texto-g__texto.p-4
-        .subt4.mb-4
-          h3.mb-0 Presupuesto comercial
+        .subt.mb-4
+          img(src="@/assets/curso/temas/t1/subt.svg")
+          h3.ps-3.pe-4.mb-0 Presupuesto comercial
         p.mb-0 A partir de las estrategias diseñadas, se formula el presupuesto de #[em marketing], que asigna los recursos económicos, humanos y logísticos necesarios para su implementación.
         p Este presupuesto debe: 
         ul.lista-ul--color.color-2.fa-lista.mb-0
@@ -477,8 +481,9 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t4/20.jpg')})`}")
       .bloque-texto-g__texto.p-4
-        .subt4.mb-4
-          h3.mb-0 Control y seguimiento
+        .subt.mb-4
+          img(src="@/assets/curso/temas/t1/subt.svg")
+          h3.ps-3.pe-4.mb-0 Control y seguimiento
         p El plan de #[em marketing] no es estático. Exige una revisión periódica para garantizar su ejecución, medir los resultados y aplicar medidas correctivas si es necesario. El seguimiento debe contemplar:
         ul.lista-ul--color.color-2.fa-lista.mb-0
           li.mb-1

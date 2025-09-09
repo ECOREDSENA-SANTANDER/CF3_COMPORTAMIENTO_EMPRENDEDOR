@@ -316,192 +316,162 @@
             .col-lg-9.col-md-9
               p.mb-0 Estas estrategias permiten asignar y optimizar el uso de recursos, resolver problemáticas específicas, identificar oportunidades de mejora y superar a la competencia. Al mismo tiempo, ofrecen un marco para proyectar lo que la empresa es hoy y lo que aspira ser en el futuro, promoviendo una gestión proactiva y orientada a resultados.
 
-    .row.bgs-1.align-items-center.p-3.p-md-4.p-lg-5.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .tarjeta.tarjeta--blanca.p-4
-            LineaTiempoC.color-primario
-              .row.justify-content-center.align-items-center(titulo="Las estrategias genéricas")
-                .col-md-6.mb-4.mb-md-0
-                  h4 Las estrategias genéricas buscan generar ventajas competitivas sostenibles y abarcan aspectos clave como:
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-down")
+      .row.justify-content-center.align-items-center(titulo="Las estrategias genéricas buscan generar ventajas competitivas sostenibles y abarcan aspectos clave como")
+        .col-md-6.mb-4.mb-md-0
+          ul.lista-ul--color.color-2.fa-lista
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Maximización de la rentabilidad y la productividad.
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Incremento en la participación de mercado y el crecimiento empresarial. 
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Mejora continua en la calidad de productos y servicios. 
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Reducción de costos y optimización operativa. 
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Protección de activos y mitigación de riesgos corporativos. 
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Fortalecimiento de la sostenibilidad y la innovación. 
+        .col-md-5
+          img(src='@/assets/curso/temas/t3/slide2-1.png', alt='')
+      .row.justify-content-center.align-items-center(titulo="Para formular una estrategia efectiva, se requiere")
+        .col-md-6.mb-4.mb-md-0
+          ol.lista-ol--cuadro.fa-lista.mb-0
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 1
+              span.mb-0 Analizar el entorno identificando oportunidades y amenazas externas.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 2
+              span.mb-0 Estimar los riesgos asociados a cada alternativa estratégica.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 3
+              span.mb-0 Evaluar las fortalezas y debilidades internas de la organización.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 4
+              span.mb-0 Reconocer los recursos actuales y potenciales disponibles.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 5
+              span.mb-0 Analizar la capacidad del mercado, tanto en presente como a futuro.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 6
+              span.mb-0 Valorar la habilidad de la organización para gestionar y asumir riesgos.
+            li
+              .lista-ol--cuadro__vineta
+                span.fw-bold 7
+              span.mb-0 Definir los valores, principios éticos y aspiraciones que guían la toma de decisiones.
+        .col-md-5
+          img(src='@/assets/curso/temas/t3/slide2-2.png', alt='')
+      .row.justify-content-center.align-items-center(titulo="Implementación estratégica")
+        .col-md-6.mb-4
+          p Una estrategia no es eficaz sin una adecuada ejecución. Para implementarla, es indispensable:
+          ul.lista-ul--color.color-2.fa-lista
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Movilizar recursos financieros, humanos y tecnológicos.
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Establecer procesos claros y una estructura organizacional alineada.
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Definir indicadores de desempeño que permitan medir avances y resultados.
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Establecer sistemas de compensación y motivación que impulsen el cumplimiento de metas.
+            li
+              i.fas.fa-circle-check
+              span.mb-0 Asegurar una cultura organizacional coherente con la estrategia.
+        .col-md-5.mb-4
+          img(src='@/assets/curso/temas/t3/slide2-3.png', alt='')
+        .col-md-11
+          p En un entorno empresarial caracterizado por la volatilidad, la incertidumbre y el cambio constante, la formulación e implementación estratégica se convierten en herramientas clave para asegurar la sostenibilidad, adaptabilidad y competitividad de cualquier organización.
+      .row.justify-content-center.align-items-center(titulo="Tipos de estrategias organizacionales")
+        .col-md-6.mb-4
+          p En el marco de la planeación estratégica, las organizaciones implementan distintas estrategias corporativas que les permiten enfrentar desafíos, aprovechar oportunidades del entorno y alcanzar sus metas de largo plazo. Estas estrategias se configuran como rutas de acción orientadas a posicionar a la empresa, optimizar su competitividad y garantizar su sostenibilidad. A continuación, se describen las principales categorías estratégicas:
+        .col-md-5.mb-4
+          img(src='@/assets/curso/temas/t3/slide2-4.png', alt='')
+        .col-md-11
+          TabsC.color-acento-contenido.mb-4(data-aos="fade-down")
+            .bg8.py-4.py-md-5(titulo="1.	Estrategias intensivistas")
+              .row.align-items-center.justify-content-evenly
+                .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/tab1-1.svg' alt='')
+                .col-md-6.col-11.col-lg-5
+                  p Estas estrategias se enfocan en mejorar la posición competitiva de la empresa utilizando los productos o servicios actuales. Son ideales cuando se busca fortalecer la participación en el mercado sin diversificarse o alterar radicalmente el modelo de negocio.
                   ul.lista-ul--color.color-2.fa-lista
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Maximización de la rentabilidad y la productividad.
+                      span.mb-0 #[b Penetración de mercado:] busca aumentar la participación en el mercado mediante campañas publicitarias, promociones, refuerzo del equipo comercial o mayor posicionamiento de marca.
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Incremento en la participación de mercado y el crecimiento empresarial. 
+                      span.mb-0 #[b Desarrollo de mercado:] consiste en introducir productos existentes en nuevos mercados geográficos, segmentos poblacionales o canales de distribución.
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Mejora continua en la calidad de productos y servicios. 
-                    li
-                      i.fas.fa-circle-check
-                      span.mb-0 Reducción de costos y optimización operativa. 
-                    li
-                      i.fas.fa-circle-check
-                      span.mb-0 Protección de activos y mitigación de riesgos corporativos. 
-                    li
-                      i.fas.fa-circle-check
-                      span.mb-0 Fortalecimiento de la sostenibilidad y la innovación. 
-                .col-md-6.col-lg-5
-                  img(src='@/assets/curso/temas/t3/slide2-1.png', alt='')
-              .row.justify-content-center.align-items-center(titulo="Estrategia efectiva")
-                .col-md-6.mb-4.mb-md-0
-                  h4 Para formular una estrategia efectiva, se requiere:
-                  ol.lista-ol--cuadro.fa-lista.mb-0
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 1
-                      span.mb-0 Analizar el entorno identificando oportunidades y amenazas externas.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 2
-                      span.mb-0 Estimar los riesgos asociados a cada alternativa estratégica.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 3
-                      span.mb-0 Evaluar las fortalezas y debilidades internas de la organización.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 4
-                      span.mb-0 Reconocer los recursos actuales y potenciales disponibles.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 5
-                      span.mb-0 Analizar la capacidad del mercado, tanto en presente como a futuro.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 6
-                      span.mb-0 Valorar la habilidad de la organización para gestionar y asumir riesgos.
-                    li
-                      .lista-ol--cuadro__vineta
-                        span.fw-bold 7
-                      span.mb-0 Definir los valores, principios éticos y aspiraciones que guían la toma de decisiones.
-                .col-md-6.col-lg-5
-                  img(src='@/assets/curso/temas/t3/slide2-2.png', alt='')
-              .row.justify-content-center.align-items-center(titulo="Implementación estratégica")
-                .col-md-6.mb-4.mb-md-0
-                  h4 Implementación estratégica: 
-                  p Una estrategia no es eficaz sin una adecuada ejecución. Para implementarla, es indispensable:
+                      span.mb-0 #[b Desarrollo de producto:] implica realizar mejoras o innovaciones a productos o servicios actuales para aumentar las ventas y la rentabilidad.
+            .bg8.py-4.py-md-5(titulo="2.	Estrategias integrativas")
+              .row.align-items-center.justify-content-evenly
+                .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/tab1-2.svg' alt='')
+                .col-md-6.col-11.col-lg-5
+                  p Estas estrategias buscan incrementar el control sobre los actores clave de la cadena de valor (proveedores, distribuidores o competidores) para mejorar la eficiencia, reducir costos y aumentar el poder de negociación.
                   ul.lista-ul--color.color-2.fa-lista
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Movilizar recursos financieros, humanos y tecnológicos.
+                      span.mb-0 #[b Integración hacia adelante:] la empresa busca controlar los canales de distribución o venta directa para acercarse más al cliente final y reducir intermediarios.
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Establecer procesos claros y una estructura organizacional alineada.
+                      span.mb-0 #[b Integración hacia atrás:] implica controlar o adquirir a los proveedores para asegurar calidad, disponibilidad de insumos y mejores condiciones de compra.
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Definir indicadores de desempeño que permitan medir avances y resultados.
+                      span.mb-0 #[b Integración horizontal:] se orienta a la adquisición, fusión o asociación con empresas del mismo sector para expandir la cuota de mercado y reducir la competencia directa.
+            .bg8.py-4.py-md-5(titulo="3.	Estrategias diversificadas")
+              .row.align-items-center.justify-content-evenly
+                .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/tab1-3.svg' alt='')
+                .col-md-6.col-11.col-lg-5
+                  p La diversificación permite a las empresas minimizar riesgos e incrementar su participación en nuevos sectores o mercados mediante la incorporación de productos o servicios diferentes a los actuales.
+                  ul.lista-ul--color.color-2.fa-lista
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Establecer sistemas de compensación y motivación que impulsen el cumplimiento de metas.
+                      span.mb-0 #[b Diversificación concéntrica:] se agregan productos nuevos relacionados con los actuales, aprovechando sinergias de mercado o producción.
                     li
                       i.fas.fa-circle-check
-                      span.mb-0 Asegurar una cultura organizacional coherente con la estrategia.
-                .col-md-6.col-lg-5.mb-4
-                  img(src='@/assets/curso/temas/t3/slide2-3.png', alt='')
-                .col-lg-11
-                  p En un entorno empresarial caracterizado por la volatilidad, la incertidumbre y el cambio constante, la formulación e implementación estratégica se convierten en herramientas clave para asegurar la sostenibilidad, adaptabilidad y competitividad de cualquier organización.
-              .row.justify-content-center.align-items-center(titulo="Estrategias organizacionales")
-                .col-md-6.mb-4.mb-md-0
-                  h4 Tipos de estrategias organizacionales
-                  p En el marco de la planeación estratégica, las organizaciones implementan distintas estrategias corporativas que les permiten enfrentar desafíos, aprovechar oportunidades del entorno y alcanzar sus metas de largo plazo. Estas estrategias se configuran como rutas de acción orientadas a posicionar a la empresa, optimizar su competitividad y garantizar su sostenibilidad. A continuación, se describen las principales categorías estratégicas:
-                  .row
-                    .col-lg-5
-                      ol.lista-ol--cuadro.fa-lista.mb-0
-                        li
-                          .lista-ol--cuadro__vineta
-                            span.fw-bold 1
-                          span.mb-0 Estrategias intensivistas
-                        li
-                          .lista-ol--cuadro__vineta
-                            span.fw-bold 2
-                          span.mb-0 Estrategias integrativas
-                    .col-lg-5
-                      ol.lista-ol--cuadro.fa-lista.mb-0
-                        li
-                          .lista-ol--cuadro__vineta
-                            span.fw-bold 3
-                          span.mb-0 Estrategias diversificadas
-                        li
-                          .lista-ol--cuadro__vineta
-                            span.fw-bold 4
-                          span.mb-0 Estrategias defensivas
-                .col-md-6.col-lg-5
-                  img(src='@/assets/curso/temas/t3/slide2-4.png', alt='')
-
-    TabsC.color-acento-contenido.mb-4(data-aos="fade-down")
-      .bg8.py-4.py-md-5(titulo="1.	Estrategias intensivistas")
-        .row.align-items-center.justify-content-evenly
-          .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/t3/tab1-1.svg' alt='')
-          .col-md-6.col-11.col-lg-5
-            p Estas estrategias se enfocan en mejorar la posición competitiva de la empresa utilizando los productos o servicios actuales. Son ideales cuando se busca fortalecer la participación en el mercado sin diversificarse o alterar radicalmente el modelo de negocio.
-            ul.lista-ul--color.color-2.fa-lista
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Penetración de mercado:] busca aumentar la participación en el mercado mediante campañas publicitarias, promociones, refuerzo del equipo comercial o mayor posicionamiento de marca.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Desarrollo de mercado:] consiste en introducir productos existentes en nuevos mercados geográficos, segmentos poblacionales o canales de distribución.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Desarrollo de producto:] implica realizar mejoras o innovaciones a productos o servicios actuales para aumentar las ventas y la rentabilidad.
-      .bg8.py-4.py-md-5(titulo="2.	Estrategias integrativas")
-        .row.align-items-center.justify-content-evenly
-          .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/t3/tab1-2.svg' alt='')
-          .col-md-6.col-11.col-lg-5
-            p Estas estrategias buscan incrementar el control sobre los actores clave de la cadena de valor (proveedores, distribuidores o competidores) para mejorar la eficiencia, reducir costos y aumentar el poder de negociación.
-            ul.lista-ul--color.color-2.fa-lista
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Integración hacia adelante:] la empresa busca controlar los canales de distribución o venta directa para acercarse más al cliente final y reducir intermediarios.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Integración hacia atrás:] implica controlar o adquirir a los proveedores para asegurar calidad, disponibilidad de insumos y mejores condiciones de compra.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Integración horizontal:] se orienta a la adquisición, fusión o asociación con empresas del mismo sector para expandir la cuota de mercado y reducir la competencia directa.
-      .bg8.py-4.py-md-5(titulo="3.	Estrategias diversificadas")
-        .row.align-items-center.justify-content-evenly
-          .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/t3/tab1-3.svg' alt='')
-          .col-md-6.col-11.col-lg-5
-            p La diversificación permite a las empresas minimizar riesgos e incrementar su participación en nuevos sectores o mercados mediante la incorporación de productos o servicios diferentes a los actuales.
-            ul.lista-ul--color.color-2.fa-lista
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Diversificación concéntrica:] se agregan productos nuevos relacionados con los actuales, aprovechando sinergias de mercado o producción.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Diversificación horizontal:] se introducen productos o servicios no relacionados, pero dirigidos al mismo grupo de clientes, optimizando canales ya existentes.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Diversificación por conglomerado:] se exploran nuevos mercados y sectores completamente distintos al negocio actual, buscando fuentes alternativas de ingresos.
-      .bg8.py-4.py-md-5(titulo="4. Estrategias defensivas")
-        .row.align-items-center.justify-content-evenly
-          .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
-            img(src='@/assets/curso/temas/t3/tab1-4.svg' alt='')
-          .col-md-6.col-11.col-lg-5
-            p Estas estrategias son aplicadas cuando la organización enfrenta entornos de riesgo o crisis, y busca preservar su operación, capital y participación en el mercado. Su objetivo es mitigar amenazas y asegurar la continuidad del negocio.
-            ul.lista-ul--color.color-2.fa-lista
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Riesgo compartido:] alianzas estratégicas entre dos o más empresas para reducir el impacto de una inversión o riesgo elevado.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Contratos de cooperación:] acuerdos para compartir redes, tecnología o conocimientos sin necesidad de una fusión formal.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Encogimiento:] reducción de costos y eliminación de procesos o unidades que no aportan valor.
-              li
-                i.fas.fa-circle-check
-                span.mb-0 #[b Desinversión:] venta de una unidad de negocio para generar recursos e invertir en áreas más rentables.
-              li
-                i.fas.fa-circle-check
+                      span.mb-0 #[b Diversificación horizontal:] se introducen productos o servicios no relacionados, pero dirigidos al mismo grupo de clientes, optimizando canales ya existentes.
+                    li
+                      i.fas.fa-circle-check
+                      span.mb-0 #[b Diversificación por conglomerado:] se exploran nuevos mercados y sectores completamente distintos al negocio actual, buscando fuentes alternativas de ingresos.
+            .bg8.py-4.py-md-5(titulo="4. Estrategias defensivas")
+              .row.align-items-center.justify-content-evenly
+                .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/tab1-4.svg' alt='')
+                .col-md-6.col-11.col-lg-5
+                  p Estas estrategias son aplicadas cuando la organización enfrenta entornos de riesgo o crisis, y busca preservar su operación, capital y participación en el mercado. Su objetivo es mitigar amenazas y asegurar la continuidad del negocio.
+                  ul.lista-ul--color.color-2.fa-lista
+                    li
+                      i.fas.fa-circle-check
+                      span.mb-0 #[b Riesgo compartido:] alianzas estratégicas entre dos o más empresas para reducir el impacto de una inversión o riesgo elevado.
+                    li
+                      i.fas.fa-circle-check
+                      span.mb-0 #[b Contratos de cooperación:] acuerdos para compartir redes, tecnología o conocimientos sin necesidad de una fusión formal.
+                    li
+                      i.fas.fa-circle-check
+                      span.mb-0 #[b Encogimiento:] reducción de costos y eliminación de procesos o unidades que no aportan valor.
+                    li
+                      i.fas.fa-circle-check
+                      span.mb-0 #[b Desinversión:] venta de una unidad de negocio para generar recursos e invertir en áreas más rentables.
+                    li
+                      i.fas.fa-circle-check
                 span.mb-0 #[b Liquidación:] cierre total de operaciones cuando continuar generaría mayores pérdidas que la salida definitiva del mercado.
           
     .row.justify-content-center
