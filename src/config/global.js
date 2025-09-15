@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/CF3_DU.zip',
       },
       {
         icono: 'far fa-registered',
@@ -184,21 +184,21 @@ export default {
     {
       tema: 'Plan de negocios',
       referencia:
-        'Servicio Nacional de Aprendizaje – SENA. (2021). Plan de negocios -Ecosistema de Recursos Educativos Digitales SENA. ',
+        'Servicio Nacional de Aprendizaje - SENA. (2021). Plan de negocios -Ecosistema de Recursos Educativos Digitales SENA. ',
       tipo: 'Infografía',
       descarga: '/downloads/Plan_de_negocios.pdf',
     },
     {
       tema: 'Estrategias organizacionales',
       referencia:
-        'Servicio Nacional de Aprendizaje – SENA. (2021). Estrategias organizacionales. Ecosistema de Recursos Educativos Digitales SENA. ',
+        'Servicio Nacional de Aprendizaje - SENA. (2021). Estrategias organizacionales. Ecosistema de Recursos Educativos Digitales SENA. ',
       tipo: 'Infografía',
       descarga: '/downloads/Estrategias_organizacionales.pdf',
     },
     {
       tema: 'Plan de <em>marketing</em>',
       referencia:
-        'Servicio Nacional de Aprendizaje – SENA. (2021). Plan de <em>marketing</em>. Ecosistema de Recursos Educativos Digitales SENA. ',
+        'Servicio Nacional de Aprendizaje - SENA. (2021). Plan de <em>marketing</em>. Ecosistema de Recursos Educativos Digitales SENA. ',
       tipo: 'Infografía',
       descarga: '/downloads/Plan_de_marketing.pdf',
     },
