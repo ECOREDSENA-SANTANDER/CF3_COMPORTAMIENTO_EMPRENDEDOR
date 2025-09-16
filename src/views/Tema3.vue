@@ -317,7 +317,7 @@
               p.mb-0 Estas estrategias permiten asignar y optimizar el uso de recursos, resolver problemáticas específicas, identificar oportunidades de mejora y superar a la competencia. Al mismo tiempo, ofrecen un marco para proyectar lo que la empresa es hoy y lo que aspira ser en el futuro, promoviendo una gestión proactiva y orientada a resultados.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-down")
-      .row.justify-content-center.align-items-center(titulo="Las estrategias genéricas buscan generar ventajas competitivas sostenibles y abarcan aspectos clave como")
+      .row.justify-content-center.align-items-center(titulo="Las estrategias genéricas buscan generar ventajas competitivas sostenibles y abarcan aspectos clave como:")
         .col-md-6.mb-4.mb-md-0
           ul.lista-ul--color.color-2.fa-lista
             li
@@ -340,7 +340,7 @@
               span.mb-0 Fortalecimiento de la sostenibilidad y la innovación. 
         .col-md-5
           img(src='@/assets/curso/temas/t3/slide2-1.png', alt='')
-      .row.justify-content-center.align-items-center(titulo="Para formular una estrategia efectiva, se requiere")
+      .row.justify-content-center.align-items-center(titulo="Para formular una estrategia efectiva, se requiere:")
         .col-md-6.mb-4.mb-md-0
           ol.lista-ol--cuadro.fa-lista.mb-0
             li
@@ -402,8 +402,8 @@
         .col-md-5.mb-4
           img(src='@/assets/curso/temas/t3/slide2-4.png', alt='')
         .col-md-11
-          TabsC.color-acento-contenido.mb-4(data-aos="fade-down")
-            .bg8.py-4.py-md-5(titulo="1.	Estrategias intensivistas")
+          TabsC.color-acento-contenido
+            .bg8.py-4.py-md-5(titulo="1. Estrategias intensivistas")
               .row.align-items-center.justify-content-evenly
                 .col-md-6.col-11.col-lg-5.mb-4.mb-md-0
                   img(src='@/assets/curso/temas/t3/tab1-1.svg' alt='')
@@ -472,7 +472,7 @@
                       span.mb-0 #[b Desinversión:] venta de una unidad de negocio para generar recursos e invertir en áreas más rentables.
                     li
                       i.fas.fa-circle-check
-                span.mb-0 #[b Liquidación:] cierre total de operaciones cuando continuar generaría mayores pérdidas que la salida definitiva del mercado.
+                      span.mb-0 #[b Liquidación:] cierre total de operaciones cuando continuar generaría mayores pérdidas que la salida definitiva del mercado.
           
     .row.justify-content-center
       .col-lg-6.mb-3.mb-lg-0(data-aos="fade-right")
