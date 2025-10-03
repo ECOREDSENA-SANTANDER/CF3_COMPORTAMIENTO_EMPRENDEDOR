@@ -64,60 +64,78 @@
         .tarjeta.bg3.p-4.mb-3
           p.mb-0 Además, muchas organizaciones lo actualizan periódicamente como parte de sus procesos de gestión estratégica, dado que facilita el cumplimiento de objetivos, el uso eficiente de recursos y la alineación con los cambios del entorno económico, tecnológico y social.
 
-    p Entre las principales ventajas que ofrece un plan de negocios para un emprendimiento, se destacan:
+    .row.bgcol-1.align-items-center.p-3.p-md-4.p-lg-5(data-aos="fade-down")
+      .col-lg-12.col-12.px-lg-4
+        .row.justify-content-center.align-items-center
+
+          p.mb-4 Entre las principales ventajas que ofrece un plan de negocios para un emprendimiento, se destacan:
     
-    .row.justify-content-center.mb-5
-      .col-lg-7(data-aos="fade-right")
-        ul.lista-ul--color.color-2.fa-lista
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Permite evaluar, anticipar y reducir factores de riesgo antes de lanzar el producto o servicio al mercado, lo que evita inversiones innecesarias y fallos operativos.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Clarifica los objetivos del negocio, haciéndolos medibles y alineados con una visión a corto, mediano y largo plazo.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Facilita la identificación del punto de equilibrio, lo cual es esencial para proyectar sostenibilidad financiera.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Articula de manera efectiva a los grupos de interés (#[em stakeholders]), integrando sus necesidades en la planificación del proyecto.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Optimiza la presentación de la idea de negocio, aumentando las posibilidades de atraer inversionistas o aliados estratégicos.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Permite realizar un estudio detallado del cliente, proveedores y canales de distribución, sin tener que asumir altos costos en una salida prematura al mercado.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Reconoce con mayor precisión las necesidades del cliente y evalúa la intención de compra, ajustando la oferta a las demandas reales.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Apoya el diseño de estrategias de #[em marketing] efectivas, basadas en un conocimiento profundo del entorno competitivo.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Genera proyecciones financieras claras y fundamentadas, con un menor margen de error.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Es un documento vivo, que puede ser revisado, ajustado y actualizado en la medida en que el negocio evoluciona o cambia el entorno.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Ayuda a enfocar la gestión del emprendedor en los aspectos clave del negocio, priorizando recursos y esfuerzos.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Estimula la creatividad del emprendedor, permitiéndole visualizar escenarios sin comprometer grandes recursos.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Facilita la planificación de cronogramas de trabajos realistas y alcanzables, mejorando la gestión del tiempo y la productividad.
-          li
-            i.fas.fa-circle-check
-            span.mb-0 Sirve como herramienta de valoración empresarial, especialmente útil en procesos de negociación, venta o fusión.
-      .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
-        img.mb-4(src='@/assets/curso/temas/t1/6.png', alt='')
-        .tarjeta.bg4.p-4
           .row.justify-content-center
-            .col-lg-5.img-neg.d-none.d-lg-block
+            .col-lg-3.d-none.d-lg-block
+              img(src='@/assets/curso/temas/t1/6.png', alt='')
+            .col-lg-9
+              ul.lista-ul--color.color-2.fa-lista
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Permite evaluar, anticipar y reducir factores de riesgo antes de lanzar el producto o servicio al mercado, lo que evita inversiones innecesarias y fallos operativos.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Clarifica los objetivos del negocio, haciéndolos medibles y alineados con una visión a corto, mediano y largo plazo.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Facilita la identificación del punto de equilibrio, lo cual es esencial para proyectar sostenibilidad financiera.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Articula de manera efectiva a los grupos de interés (#[em stakeholders]), integrando sus necesidades en la planificación del proyecto.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Optimiza la presentación de la idea de negocio, aumentando las posibilidades de atraer inversionistas o aliados estratégicos.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Permite realizar un estudio detallado del cliente, proveedores y canales de distribución, sin tener que asumir altos costos en una salida prematura al mercado.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Reconoce con mayor precisión las necesidades del cliente y evalúa la intención de compra, ajustando la oferta a las demandas reales.
+                
+    .row.bgcol-2.align-items-center.p-3.p-md-4.p-lg-5.mb-5(data-aos="fade-down")
+      .col-lg-12.col-12.px-lg-4
+        .row.justify-content-center.align-items-center
+
+          .row.justify-content-center
+            .col-lg-9  
+              ul.lista-ul--color.color-2.fa-lista
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Apoya el diseño de estrategias de #[em marketing] efectivas, basadas en un conocimiento profundo del entorno competitivo.
+    
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Genera proyecciones financieras claras y fundamentadas, con un menor margen de error.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Es un documento vivo, que puede ser revisado, ajustado y actualizado en la medida en que el negocio evoluciona o cambia el entorno.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Ayuda a enfocar la gestión del emprendedor en los aspectos clave del negocio, priorizando recursos y esfuerzos.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Estimula la creatividad del emprendedor, permitiéndole visualizar escenarios sin comprometer grandes recursos.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Facilita la planificación de cronogramas de trabajos realistas y alcanzables, mejorando la gestión del tiempo y la productividad.
+                li
+                  i.fas.fa-circle-check
+                  span.mb-0 Sirve como herramienta de valoración empresarial, especialmente útil en procesos de negociación, venta o fusión.
+            .col-lg-3.d-none.d-lg-block
+              img(src='@/assets/curso/temas/t1/6.png', alt='')
+      
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .tarjeta.bg10.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/7.svg', alt='')
-            .col-lg-7
+            .col-lg-9
               p.mb-0 El plan de negocios es mucho más que un requisito formal, es una guía estratégica que fortalece la toma de decisiones, potencia el crecimiento sostenible y convierte la idea emprendedora en una propuesta de valor con alto impacto.
           
 

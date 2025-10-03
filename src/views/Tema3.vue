@@ -263,8 +263,8 @@
         p Los objetivos organizacionales representan los resultados deseados que una empresa se propone alcanzar dentro de un marco temporal específico. Estos están estrechamente vinculados con la misión y la visión institucional, y reflejan el propósito estratégico de la organización tanto a nivel interno como externo. #[br] #[br]
         p En el entorno empresarial actual, caracterizado por la transformación digital, la sostenibilidad, la globalización y la innovación constante, los objetivos organizacionales no solo buscan alcanzar eficiencia operativa, sino también generar valor para todos los grupos de interés (clientes, colaboradores, comunidad, aliados estratégicos y entes reguladores).
 
-    .row.justify-content-center.align-items-center(data-aos="fade")
-      .col-lg-8.mb-3.mb-lg-0
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
+      .col-lg-10.mb-3.mb-lg-0
         .tarjeta--container.row
           .col-md.tarjeta.color-primario.p-5
             .subt2.mb-4
@@ -295,9 +295,13 @@
               li.mb-0
                 i.fas.fa-circle-check
                 span.mb-0 #[b Operacionales:] de corto plazo, centrados en tareas concretas y resultados inmediatos.
-      .col-lg-4
-        img.w-90px.mb-4(src='@/assets/curso/temas/t3/12.svg' alt='')
-        p Importante identificar que los objetivos bien formulados funcionan como una brújula que guía a la empresa hacia su visión, fortaleciendo su competitividad, adaptabilidad y responsabilidad social en un entorno empresarial dinámico y exigente.
+    
+    .bg10.p-4
+      .row.justify-content-center.align-items-center        
+        .col-lg-2
+          img.w-75.m-auto(src='@/assets/curso/temas/t3/12.svg' alt='')
+        .col-lg-8
+          p.mb-0 Importante identificar que los objetivos bien formulados funcionan como una brújula que guía a la empresa hacia su visión, fortaleciendo su competitividad, adaptabilidad y responsabilidad social en un entorno empresarial dinámico y exigente.
 
 
     Separador

@@ -311,7 +311,7 @@
       .col-lg-4(data-aos="fade-right")
         img.mb-4.w-90px.m-auto(src='@/assets/curso/temas/t2/16.svg' alt='')
         .subt2.mb-4
-          h3.mb-0.pb-1 Jerarquización
+          h3.mb-0.pb-1 a) Jerarquización
         p Consiste en organizar las funciones de la empresa por niveles de importancia o autoridad. Los niveles jerárquicos deben ser los estrictamente necesarios y estar claramente definidos, indicando quién toma decisiones, quién ejecuta y cómo se relacionan entre sí.
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
@@ -324,7 +324,7 @@
       .col-lg-4(data-aos="fade-right")
         img.mb-4.w-90px.m-auto(src='@/assets/curso/temas/t2/17.svg' alt='')
         .subt2.mb-4
-          h3.mb-0.pb-1 Departamentalización 
+          h3.mb-0.pb-1 b) Departamentalización 
         p Implica agrupar tareas y actividades similares en unidades organizativas o departamentos específicos. Esta agrupación facilita el control, la supervisión y la ejecución eficiente de los procesos.
       .col-lg-8(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
