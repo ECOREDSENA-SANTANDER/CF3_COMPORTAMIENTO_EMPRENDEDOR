@@ -23,7 +23,7 @@
       .col-lg-8.pe-lg-0
         .bg4.p-4.p-lg-5.h-100
           p Además de su función económica, la empresa moderna cumple un rol social fundamental, crea empleos, impulsa el desarrollo local, promueve la inclusión financiera y contribuye a mejorar la calidad de vida de las personas. En este marco, conceptos como la Responsabilidad Social Empresarial (RSE), la transformación digital, la gobernanza corporativa y la economía circular, se han convertido en pilares estratégicos que fortalecen su legitimidad y competitividad.
-          p.mb-0 Una empresa bien estructurada es capaz de generar valor compartido para todos sus grupos de interés, accionistas, socios, empleados, clientes, proveedores, comunidades y entes reguladores, para ello, debe operar con transparencia, eficiencia, compromiso social y una clara orientación hacia la sostenibilidad. 
+          p Una empresa bien estructurada es capaz de generar valor compartido para todos sus grupos de interés, accionistas, socios, empleados, clientes, proveedores, comunidades y entes reguladores, para ello, debe operar con transparencia, eficiencia, compromiso social y una clara orientación hacia la sostenibilidad. 
           p.mb-0 En consecuencia, el éxito empresarial ya no se mide únicamente en términos financieros, sino también en su capacidad de generar impacto positivo en el entorno económico, humano y ambiental en el que opera.
       .col-lg-4.ps-lg-0
         .bg5.p-3.p-lg-4.h-100.d-none.d-lg-block
