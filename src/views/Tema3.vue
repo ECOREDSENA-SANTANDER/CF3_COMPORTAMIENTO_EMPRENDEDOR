@@ -103,7 +103,7 @@
               img(src='@/assets/curso/temas/t3/6.svg' alt='')
             .col-lg-8
               .tarjeta.bg6.p-4
-                p.mb-0 Redactar una misión clara, auténtica y orientada al impacto es fundamental para consolidar la identidad organizacional y movilizar al equipo hacia un mismo propósito; para lograrlo, es necesario reflexionar estratégicamente sobre los elementos que conforman dicha identidad y propósito, a través de preguntas clave que guíen su formulación con coherencia, sentido y alineación con la visión de la empresa, a continuación se destacan las siguientes: 
+                p.mb-0 Redactar una misión clara, auténtica y orientada al impacto es fundamental para consolidar la identidad organizacional y movilizar al equipo hacia un mismo propósito; para lograrlo, es necesario reflexionar estratégicamente sobre los elementos que conforman dicha identidad y propósito, a través de preguntas clave que guíen su formulación con coherencia, sentido y alineación con la visión de la empresa, a continuación, se destacan las siguientes: 
       .col-lg-5(data-aos="fade-left")
         ul.lista-ul--color.color-2.fa-lista.mb-0
           li.mb-1
